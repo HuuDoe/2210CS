@@ -1,0 +1,5 @@
+u=float(input('Enter inital velocity: '))
+t=float(input('Enter time taken: '))
+a=float(input('Enter acceleration: '))
+s=(u*t)+(0.5*a*t**2)
+print('distance',s,'meters')

@@ -1,0 +1,6 @@
+width=int(input('Enter width: '))
+length=int(input('Enter length: '))
+height=int(input('Enter height: '))
+surface_area= 2*(width+length+height)
+volume=(width*length*height)
+print(f"Surface area: {surface_area} \nVolume: {volume}")
