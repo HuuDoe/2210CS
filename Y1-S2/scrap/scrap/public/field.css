@@ -1,0 +1,51 @@
+.grid-container {
+    display: grid;
+    grid-template-areas: 
+    'b1'
+    'b2'
+    'b3';
+    grid-gap: 0;
+    width: 90%;
+    height: fit-content;
+    text-align: center;
+}
+
+iframe {
+    align-items: center;
+    padding: 3%;
+}
+
+img {
+    border-radius: 40px;
+    padding: 20px;
+}
+
+.b1 {
+    grid-area: b1;
+}
+
+.b2 {
+    grid-area: b2;
+}
+
+
+.b3 {
+    grid-area: b3;
+}
+
+.block {
+    border-radius: 40px;
+    background-color: beige;
+    padding: 4%;
+    margin: 1.5%;
+}
+
+.name {
+    padding-top: 23%;
+}
+
+.des {
+    padding: 6% 20%;
+}
+
+

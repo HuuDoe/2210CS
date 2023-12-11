@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\bin\Debug\net7.0-windows\StockManagement.exe
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\bin\Debug\net7.0-windows\StockManagement.deps.json
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\bin\Debug\net7.0-windows\StockManagement.runtimeconfig.json
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\bin\Debug\net7.0-windows\StockManagement.dll
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\bin\Debug\net7.0-windows\StockManagement.pdb
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\obj\Debug\net7.0-windows\StockManagement.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\obj\Debug\net7.0-windows\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\obj\Debug\net7.0-windows\StockManagement.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\obj\Debug\net7.0-windows\StockManagement.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\obj\Debug\net7.0-windows\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\obj\Debug\net7.0-windows\StockManagement.dll
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\obj\Debug\net7.0-windows\refint\StockManagement.dll
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\obj\Debug\net7.0-windows\StockManagement.pdb
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\obj\Debug\net7.0-windows\StockManagement.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\StockManagement\obj\Debug\net7.0-windows\ref\StockManagement.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\bin\Debug\net7.0\shppi.exe
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\bin\Debug\net7.0\shppi.deps.json
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\bin\Debug\net7.0\shppi.runtimeconfig.json
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\bin\Debug\net7.0\shppi.dll
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\bin\Debug\net7.0\shppi.pdb
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\obj\Debug\net7.0\shppi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\obj\Debug\net7.0\shppi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\obj\Debug\net7.0\shppi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\obj\Debug\net7.0\shppi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\obj\Debug\net7.0\shppi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\obj\Debug\net7.0\shppi.dll
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\obj\Debug\net7.0\refint\shppi.dll
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\obj\Debug\net7.0\shppi.pdb
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\obj\Debug\net7.0\shppi.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\2210CS_Sem2\StockManagement\shppi\shppi\obj\Debug\net7.0\ref\shppi.dll

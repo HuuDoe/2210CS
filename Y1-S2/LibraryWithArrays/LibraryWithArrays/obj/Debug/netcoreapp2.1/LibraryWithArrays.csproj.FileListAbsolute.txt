@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\bin\Debug\netcoreapp2.1\LibraryWithArrays.deps.json
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\bin\Debug\netcoreapp2.1\LibraryWithArrays.runtimeconfig.json
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\bin\Debug\netcoreapp2.1\LibraryWithArrays.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\bin\Debug\netcoreapp2.1\LibraryWithArrays.dll
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\bin\Debug\netcoreapp2.1\LibraryWithArrays.pdb
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\obj\Debug\netcoreapp2.1\LibraryWithArrays.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\obj\Debug\netcoreapp2.1\LibraryWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\obj\Debug\netcoreapp2.1\LibraryWithArrays.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\obj\Debug\netcoreapp2.1\LibraryWithArrays.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\obj\Debug\netcoreapp2.1\LibraryWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\obj\Debug\netcoreapp2.1\LibraryWithArrays.dll
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\obj\Debug\netcoreapp2.1\LibraryWithArrays.pdb
+C:\Users\ASUS\Desktop\2210CS_Sem2\LibraryWithArrays\LibraryWithArrays\obj\Debug\netcoreapp2.1\LibraryWithArrays.genruntimeconfig.cache
